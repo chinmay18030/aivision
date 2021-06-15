@@ -25,3 +25,5 @@ while True:
   if cv2.waitKey(0) & 0xFF==ord('d'):
     break
   
+cap.release()
+cv2.destroyAllWindows()
