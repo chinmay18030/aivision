@@ -8,7 +8,8 @@ aivision is a python package that will help you build many cool computer vision 
 - `Chroma effect adder`
 - `Colour tracker`
 - `QR CODE scanner and tracker`
-Upcoming
+ 
+## Upcoming
 - `Shape recognition`
 - `Warp perspective`
 - `utilities`
